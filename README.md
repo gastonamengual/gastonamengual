@@ -1,10 +1,32 @@
-### Hi there 👋
+### Hi there! I'm Gastón 👋
 
-I'm Gastón Amengual. Welcome to my GitHub's profile!
+Welcome to my GitHub! I'm a Software Engineer specializing in MLOps, backend development, and cloud infrastructure. Passionate about building scalable, efficient, and well-structured systems.
 
-I am a Systems Engineer specialized in MLOps and focused in the deployment, maintenance and testing of AI projects, while at the same time keeping the client's delivery needs as a top priority. Additionally, I am open to exploring opportunities in backend development with APIs, as well as in Data Engineering processes.
+### ✨ About Me
 
-You can also find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gastonamengual)
+* 🎓 Background: Engineer with experience in Python, distributed systems, and machine learning operations.
+
+* ⚖️ Tech Stack: Python, NumPy, FastAPI, Databricks, MLFlow, Azure, AWS, Docker, SQLAlchemy, GitHub Actions, and more.
+
+* 🌐 Interests: Cloud computing, automation, and optimizing machine learning workflows.
+
+### 🎯 Featured Projects
+
+I'm building a project, designed to showcase a flexible and scalable MLOps architecture. By integrating multiple clients and model registries, it simulates real-world industry scenarios where different components need to work together seamlessly. The goal is to demonstrate how a well-structured, decoupled system can make AI deployments more efficient, adaptable, and easy to maintain. The modules are:
+
+* [HuggingFace Image Recognition Model Registry API](https://github.com/gastonamengual/GAMR-Model-Registry-HF)
+* [MLFLow Flower Model Registry API](https://github.com/gastonamengual/GAMR-Model-Registry-MLFlow)
+* [Backend Service](https://github.com/gastonamengual/GAMR-Backend-Service-Vercel)
+* [UI Client](https://github.com/gastonamengual/GAMR-Client-Streamlit)
+
+###
+
+🌟 How to Reach Me
+
+👤 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gastonamengual)
+
+📧 [Email](gastonamengual@icloud.com)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gastonamengual&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
