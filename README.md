@@ -14,10 +14,10 @@ Welcome to my GitHub! I'm a Software Engineer specializing in MLOps, backend dev
 
 The GAMR project is all about flexible, decoupled and scalable MLOps architecure. By integrating multiple clients and model registries, it simulates real-world industry scenarios where different components need to work together seamlessly. The goal is to demonstrate how a well-structured, decoupled system can make AI deployments more efficient, robust, adaptable, and easy to maintain. The modules are:
 
-* [UI Client](https://github.com/gastonamengual/GAMR-Client-Streamlit)
-* [Backend Service](https://github.com/gastonamengual/GAMR-Backend-Service-Vercel)
+* [UI Client Application](https://github.com/gastonamengual/GAMR-Client-Streamlit)
+* [Backend Service API](https://github.com/gastonamengual/GAMR-Backend-Service-Vercel)
 * [HuggingFace Image Recognition Model Registry API](https://github.com/gastonamengual/GAMR-Model-Registry-HF)
-* [MLFLow Flower Model Registry API](https://github.com/gastonamengual/GAMR-Model-Registry-MLFlow)
+* [MLFLow Flower Model Service API](https://github.com/gastonamengual/GAMR-Model-Registry-MLFlow)
 * [MLFlow Server](https://github.com/gastonamengual/GAMR-MLFlow-Server)
 * [Docker Compose](https://github.com/gastonamengual/GAMR-Docker-Compose)
 
